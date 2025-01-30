@@ -1,8 +1,8 @@
-# Prework - *Name of App Here*
+# Prework - *Background Color Changer*
 
-Submitted by: **Your Name Here**
+Submitted by: **Tyler Dange**
 
-**Name of your app** is an app that... [TODO] 
+**Background Color Changer** is an app that changes the background color when you press the change button.
 
 Time spent: **X** hours spent in total
 
